@@ -1,0 +1,4 @@
+/node_modules
+#heroku
+.DS_Store
+    *.env/
